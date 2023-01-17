@@ -12,7 +12,7 @@
 عند الرغبة بتشغيل المشروع يجب أولًا تثبيت كل من:
  <br>
 <div dir="rtl">
-<ul>
+<ul dir="rtl">
 <li>Node.js</li>
 <li> مكتبة Prism من Stoplight وذلك من خلال الأمر:</li>
 </ul>
